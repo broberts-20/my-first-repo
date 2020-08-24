@@ -1,0 +1,29 @@
+commit b7368125fbca7565b91a53cd7c95451f5e8eb789
+Author: broberts-20 <brid.roberts@novartis.com>
+Date:   Mon Aug 24 09:53:38 2020 +0100
+
+    added hello.txt to gitignore
+
+commit ef0d6f82155f5652ba9e2611d2a6ae005afb81c4
+Author: broberts-20 <brid.roberts@novartis.com>
+Date:   Mon Aug 24 09:52:22 2020 +0100
+
+    added .gitignore
+
+commit 1286f114a917d635d04d640564e096e2aeb68d99
+Author: broberts-20 <brid.roberts@novartis.com>
+Date:   Mon Aug 24 09:25:01 2020 +0100
+
+    apended text to readme.txt
+
+commit 26f4ce309974e745536cc15a51fe22a5318d5b2f
+Author: broberts-20 <brid.roberts@novartis.com>
+Date:   Mon Aug 24 09:23:31 2020 +0100
+
+    added 2 files
+
+commit 03b088ae5cd6e91c79063edf201b19dae7871002
+Author: broberts-20 <brid.roberts@novartis.com>
+Date:   Mon Aug 24 09:21:23 2020 +0100
+
+    added readme.txt
